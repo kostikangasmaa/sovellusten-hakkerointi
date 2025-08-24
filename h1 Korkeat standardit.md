@@ -1,7 +1,7 @@
 # SFS-EN ISO/IEC 27000:2020:en standardissa käytetyt termit
 
-**Effectiveness 3.2**  
-Tällä kuvataan dokumentissa suunniteltujen toimenpiteiden realisointia ja suunniteltujen vaatimusten täyttymystä.
+**Attack 3.2**  
+Hyökkäys, Yritys tai pyrkimys, tuhota, julkaista, muokkaa, poistaa käytöstä, varastaa tai saada käyttöön ilman oikeuksia.
 
 **Information security incident 3.31**  
 On yksittäinen tai sarja epätoivottuja tai odottamattomia tietoturvatapahtumia, joilla on korkea todennäköisyys aiheuttaa vakavaa liiketoiminnallista tai tietoturvahaittaa.
