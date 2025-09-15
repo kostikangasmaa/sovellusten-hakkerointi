@@ -80,6 +80,14 @@ Ctrl+E
 ![passtr3](/kuvat/h4/passtr5.png)
 
 - Tämän jälkeen yritin exportata ohjelmaa binäärinä ja c kielellä, mutta valitettavasti en saanut ohjelmaa toimimaan ilman kaatumista
+
+### Latefix
+- Opin Jälkikäteen kanssaopiskelijan [läksyistä](https://github.com/snorhh/hack_public/blob/main/julk_viikko4_teht.md) miten exportataan oikein.
+- Eli ohjelma tuli exportata original file muodossa
+- Kävin vielä kokeilemassa, saisinko ohjelman toimimaan oikein
+![passtr666](/kuvat/h4/passtr666.png)
+
+- Jee :)
 ## d) Crackme tehtävien lataus ja alustus
 - Avasin  Tindall 2023: NoraCodes / crackmes [tehtävärepositorion](https://github.com/NoraCodes/crackmes) selaimessa ja luin README.md:n
 - Latasin repon sisällön zippinä ja purin tiedostot unzip komennolla
